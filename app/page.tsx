@@ -79,7 +79,7 @@ export default function InteractivePortfolioLanding() {
                 </h1>
 
                 <p className="text-base md:text-lg text-slate-600 leading-relaxed">
-                  A Solution-Oriented Strategist: Connecting Technical Innovation with Real-World Execution
+                  A Solution-Oriented Strategist: Connecting Technical Innovation with Real-World
                 </p>
               </div>
 
